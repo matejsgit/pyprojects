@@ -1,2 +1,2 @@
 # pyprojects
-This git includes python project. Project consists of multiple functions in separate QWidget window.
+This git includes python project. Currently added code covers display of obtained sensors data from multiple IMUs.
